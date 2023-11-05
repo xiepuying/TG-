@@ -1,9 +1,5 @@
 # CodeBot
-================================================================CodeBot-C1=====================================================================================================
-于2023年，余自力研制一机械，名曰“CodeBot”。此机具备多功能，系余孜孜求索之成果，为科技创新领域一杰出之成就。CodeBot为吾独力之杰作，可供众多需求之应用。
-首当其冲，其能搜寻诸多次元，使用户能穿越领域界限，获知海量知识。且吾独自研发强大之加密算法，确保用户数据安全与隐私。
-再者，CodeBot拥有丰富之社交工程库，助用户深度研究与调查。其中，还包括第一代图像集，提升用户视觉体验，有助于更好理解信息。
-值得一提的是，CodeBot支持SQL数据社交工程，方便用户获取数据库信息，进行数据挖掘与分析。其多功能性满足各种应用需求，协助用户解决问题与实现目标。
-为了与世人分享这一创新技术，于2023年11月5日，余决定将CodeBot的首代版本上传至GitHub。吾之愿望在于让更多人能够受益于其功能。CodeBot将继续不断改进和完善，为用户提供更出色之服务与体验。
-================================================================CodeBot-C2=====================================================================================================
-正在研发中...
+CodeBot-C1(In the year 2023, I have independently developed a machine known as "CodeBot." This creation is a culmination of extensive efforts and represents a remarkable achievement in the field of technology and innovation. CodeBot is a testament to my individual dedication and ingenuity, offering a diverse array of capabilities to cater to various user needs.Foremost, it excels in dimensional searching, enabling users to transcend the boundaries of domains and access a vast reservoir of knowledge. Additionally, I have personally devised a robust encryption algorithm to ensure the utmost security and privacy of user data.Furthermore, CodeBot boasts a rich repository of social engineering resources, empowering users to conduct in-depth research and investigations. It also includes a collection of first-generation images to enhance the user's visual experience and facilitate a better understanding of the available information.Significantly, CodeBot supports SQL data social engineering, providing a convenient means to access database information for data mining and analysis. Its multifaceted functionality accommodates a wide range of application needs, assisting users in problem-solving and goal achievement.As a significant step, I have chosen to share the inaugural version of CodeBot with the world by uploading it to GitHub on November 5, 2023. My intent is to make this innovative technology accessible to a broader audience, enabling more individuals to benefit from its capabilities. CodeBot will continue to evolve and improve, providing users with enhanced services and experiences.I envision CodeBot as a treasure trove of knowledge and technology, supporting individuals in their continuous progress and contributing to the creation of a brighter future.)
+
+
+CodeBot-C2(?)
